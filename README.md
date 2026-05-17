@@ -36,4 +36,4 @@ The main languages ​​I use are:
 
 ------------------------------------------------------------------------------------------------------------------------
 
-You can contact me using my [email](joaovitor.odev@gmail.com).
+You can contact me using my [email](mailto:joaovitor.odev@gmail.com).
