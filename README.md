@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World👋
 
 <!--
 **joaovitorodev/joaovitorodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm João Vitor de Oliveira Silva, a student of Systems Analysis and Development in [UNICID](https://www.unicid.edu.br/).
+
+------------------------------------------------------------------------------------------------------------------------
+
+Currently, I am studying and improving my programming skills in various languages ​​and technologies used in the market.
+
+------------------------------------------------------------------------------------------------------------------------
+
+The main languages ​​I use are:
+
+<ul>
+  <li>Java</li>
+  <li>javaScript</li>
+  <li>C#</li>
+  <li>C/C++</li>
+  <li>Python</li>
+  <li>PHP</li>
+</ul>
+
+------------------------------------------------------------------------------------------------------------------------
+
+You can contact me using my [email](joaovitor.odev@gmail.com).
